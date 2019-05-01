@@ -1,8 +1,7 @@
-# Getting and Cleaning Data - Course Project
+# Getting and Cleaning Data
 
-This repository was built for the course project of the "Getting and Cleaning Data" course at Coursera.  This is the third module in the Data Science specialization.
 
-## Project Summary
+## Summary
 
 The goal of this project is to create a tidy data data set with the help of R to analyze experimental results which were captured in the [Human Activity Recognition Using Smartphones] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) study.
 
